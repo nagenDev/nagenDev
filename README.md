@@ -27,6 +27,7 @@
 
 ## 📌 Featured Projects
 🔹 [**Journalism Website**](https://github.com/nagenDev/journalApp) – Spring Boot, Spring Security, Redis, JWT, Swagger Docs  
+🔹 [**Tour-Package-Management-Microservice-with-MongoDB-Integration**](https://github.com/nagenDev/Tour-Package-Management-Microservice-with-MongoDB-Integration) – Spring Boot, RestApi, Swagger Docs  
 🔹 [**Sudoku Solver**](https://github.com/nagenDev/Sudoku-sover-) – Backtracking algorithm + Java Swing  
 🔹 [**Notepad with Login**](https://github.com/nagenDev/Notepad-with-login-interface) – Java AWT, file handling  
 🔹 [**Tic Tac Toe (JS)**](https://github.com/nagenDev/Tic-Tac-Toe) – HTML, CSS, JavaScript  
