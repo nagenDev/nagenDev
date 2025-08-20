@@ -29,6 +29,8 @@
 🔹 [**Journalism Website**](https://github.com/nagenDev/journalApp) – Spring Boot, Spring Security, Redis, JWT, Swagger Docs  
 🔹 [**Tour-Package-Management-Microservice-with-MongoDB-Integration**](https://github.com/nagenDev/Tour-Package-Management-Microservice-with-MongoDB-Integration) – Spring Boot, RestApi, Swagger Docs  
 🔹 [**Sudoku Solver**](https://github.com/nagenDev/Sudoku-sover-) – Backtracking algorithm + Java Swing  
+🔹 [**Snake Game (Java Swing)**](https://github.com/nagenDev/Snake-game-using-java-swing) – Classic Snake Game built with Java Swing, featuring real-time scoring, difficulty levels (Easy/Medium/Hard), custom backgrounds, and smooth gameplay.
+
 🔹 [**Notepad with Login**](https://github.com/nagenDev/Notepad-with-login-interface) – Java AWT, file handling  
 🔹 [**Tic Tac Toe (JS)**](https://github.com/nagenDev/Tic-Tac-Toe) – HTML, CSS, JavaScript  
 
